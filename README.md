@@ -33,7 +33,7 @@ Eğer adaptör statik IP kullanıyorsa:
 
 
 ÖRNEK:  
-# Yedekleme yapmak için:
+    # Yedekleme yapmak için:
     .\NetworkBackupRestore.ps1 -Backup
 
     # Geri yükleme yapmak için:
